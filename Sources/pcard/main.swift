@@ -1,0 +1,3 @@
+import Punchcard
+
+TheApp.main()

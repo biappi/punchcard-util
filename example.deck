@@ -1,0 +1,13 @@
+# An example punchcard deck.
+#
+# The format of the file is a comma separated list of keypunches, one card per line.
+# The punchcard rows are called, in order, "XU0123456789"
+#
+# The parsing is not really robust but it works, so there's that.
+
+9,68,8,0,0,0,2,2,9,68,8,0,0,0,2,0,9,68,8,0,0,0,2,6,4,3,1,0,0,0,2,5,58,2,0,2,0,0,1,7,0,0,3,0,58,2,0,0,0,0,0,0,0,0,3,3,4,3,78,0,0,0,0,4,0,0,4,0,8,0,28,0,0,0,2,8,48,0,4,28
+
+
+# A simple card encoded with the IBM code
+X5,07,X1,U4,U7,3U,X5,3X8,9X,X2,U4,3X8,3X,X1,U9,4X,3X8,U,3X8,1,2,3,4,5,6,7,8,9,0
+
